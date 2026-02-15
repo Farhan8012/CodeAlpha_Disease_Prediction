@@ -3,7 +3,8 @@
 ## Overview
 This project predicts the likelihood of heart disease in patients based on medical attributes such as age, cholesterol levels, and blood pressure. It uses Machine Learning algorithms and a Streamlit web interface for easy user interaction.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfe2ecd0-57f8-4962-965b-8e1ef9224db3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f77481d-18e2-499b-a7c3-dea24e333cee" />
+
 
 ## Features
 * **Data Analysis:** Exploratory Data Analysis (EDA) with correlation heatmaps.
